@@ -4,6 +4,8 @@ A talk on binderhub, papermill, and repo2docker. How to start with interactive
 data exploration and end with a set of interactive slides. Two measures
 discipline and one tools.
 
+[Slides](https://docs.google.com/presentation/d/1YSJwB2JUpmknWxjV6ufLDHUbjFWW8wSqr0TrPyXOpnI/edit?usp=sharing)
+
 
 # Try it live
 
